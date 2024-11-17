@@ -1,4 +1,4 @@
-# Tableu_projects
+# Tableau_projects
 
 The entire repository of Tableau Projects consists of 3 projects:
 
